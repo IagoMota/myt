@@ -1,0 +1,25 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+header button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+}
+
+header button img {
+    height: 44px;
+}
+
+header input {
+    background-color: #fff;
+    border: solid black 1px;
+    outline: none;
+    border-radius: 14px;
+    height: 44px;
+    width: 60%;
+}
